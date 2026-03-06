@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.egg-info/
+.env
+.env.example
+!.env.example
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+backend/static/alerts/*.jpg
+backend/static/alerts/*.png
+
+# Large AI Models
+*.pt
+*.h5
+dataset/

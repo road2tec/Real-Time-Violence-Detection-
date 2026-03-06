@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pymongo
+opencv-python
+ultralytics
+mediapipe
+python-jose[cryptography]
+passlib
+bcrypt==4.0.1
+python-multipart
+python-dotenv
+pydantic[email]
+email-validator
+numpy
+pillow
